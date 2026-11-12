@@ -1,0 +1,13 @@
+:root { font-family: Arial, sans-serif; color: #222; background: #f3f4f6; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+.topbar { background: #263746; color: white; padding: 18px 24px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-weight: 700; font-size: 20px; }
+.topbar button { border: 1px solid #9aa8b4; background: transparent; color: white; padding: 8px 12px; cursor: pointer; }
+main { max-width: 900px; margin: 28px auto; padding: 0 20px; }
+.card { background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 22px; margin: 16px 0; }
+.muted { color: #aaa; }
+a { color: #244f83; }
+label, input, select { display: block; margin: 10px 0; }
+input, select { padding: 8px; min-width: 220px; }
+footer { max-width: 900px; margin: 40px auto; padding: 12px 20px; color: #aaa; }

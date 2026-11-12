@@ -1,0 +1,202 @@
+[
+  {
+    "page": "home",
+    "allViolationRules": [
+      {
+        "id": "button-name",
+        "impact": "critical"
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious"
+      },
+      {
+        "id": "html-has-lang",
+        "impact": "serious"
+      },
+      {
+        "id": "meta-viewport",
+        "impact": "critical"
+      }
+    ],
+    "fixFirstRules": [
+      "button-name",
+      "color-contrast",
+      "html-has-lang",
+      "meta-viewport"
+    ],
+    "passes": 25,
+    "incomplete": 1,
+    "inapplicable": 62
+  },
+  {
+    "page": "catalog",
+    "allViolationRules": [
+      {
+        "id": "button-name",
+        "impact": "critical"
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious"
+      },
+      {
+        "id": "html-has-lang",
+        "impact": "serious"
+      },
+      {
+        "id": "meta-viewport",
+        "impact": "critical"
+      }
+    ],
+    "fixFirstRules": [
+      "button-name",
+      "color-contrast",
+      "html-has-lang",
+      "meta-viewport"
+    ],
+    "passes": 23,
+    "incomplete": 1,
+    "inapplicable": 63
+  },
+  {
+    "page": "requests",
+    "allViolationRules": [
+      {
+        "id": "button-name",
+        "impact": "critical"
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious"
+      },
+      {
+        "id": "html-has-lang",
+        "impact": "serious"
+      },
+      {
+        "id": "meta-viewport",
+        "impact": "critical"
+      },
+      {
+        "id": "select-name",
+        "impact": "critical"
+      }
+    ],
+    "fixFirstRules": [
+      "button-name",
+      "color-contrast",
+      "html-has-lang",
+      "meta-viewport",
+      "select-name"
+    ],
+    "passes": 21,
+    "incomplete": 1,
+    "inapplicable": 65
+  },
+  {
+    "page": "settings",
+    "allViolationRules": [
+      {
+        "id": "button-name",
+        "impact": "critical"
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious"
+      },
+      {
+        "id": "html-has-lang",
+        "impact": "serious"
+      },
+      {
+        "id": "label",
+        "impact": "critical"
+      },
+      {
+        "id": "meta-viewport",
+        "impact": "critical"
+      }
+    ],
+    "fixFirstRules": [
+      "button-name",
+      "color-contrast",
+      "html-has-lang",
+      "label",
+      "meta-viewport"
+    ],
+    "passes": 21,
+    "incomplete": 1,
+    "inapplicable": 65
+  },
+  {
+    "page": "profile",
+    "allViolationRules": [
+      {
+        "id": "button-name",
+        "impact": "critical"
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious"
+      },
+      {
+        "id": "html-has-lang",
+        "impact": "serious"
+      },
+      {
+        "id": "image-alt",
+        "impact": "critical"
+      },
+      {
+        "id": "label",
+        "impact": "critical"
+      },
+      {
+        "id": "meta-viewport",
+        "impact": "critical"
+      }
+    ],
+    "fixFirstRules": [
+      "button-name",
+      "color-contrast",
+      "html-has-lang",
+      "image-alt",
+      "label",
+      "meta-viewport"
+    ],
+    "passes": 22,
+    "incomplete": 1,
+    "inapplicable": 63
+  },
+  {
+    "page": "help",
+    "allViolationRules": [
+      {
+        "id": "button-name",
+        "impact": "critical"
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious"
+      },
+      {
+        "id": "html-has-lang",
+        "impact": "serious"
+      },
+      {
+        "id": "meta-viewport",
+        "impact": "critical"
+      }
+    ],
+    "fixFirstRules": [
+      "button-name",
+      "color-contrast",
+      "html-has-lang",
+      "meta-viewport"
+    ],
+    "passes": 21,
+    "incomplete": 1,
+    "inapplicable": 65
+  }
+]

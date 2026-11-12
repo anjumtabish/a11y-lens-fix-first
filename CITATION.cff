@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated A11y Lens preprint: https://doi.org/10.5281/zenodo.21873720."
+title: "A11y Lens: Fix-First Accessibility Reporting"
+authors:
+  - family-names: Anjum
+    given-names: "Md Tabish"
+version: 1.0.0
+date-released: 2026-11-13
+type: software

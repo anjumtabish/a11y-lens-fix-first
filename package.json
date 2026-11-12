@@ -1,0 +1,15 @@
+{
+  "name": "a11y-lens-fix-first",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A11y Lens: fix-first accessibility reporting with Playwright and axe-core.",
+  "license": "MIT",
+  "scripts": {
+    "a11y:public": "node src/scan-public.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "axe-core": "4.10.3",
+    "playwright": "1.56.1"
+  }
+}

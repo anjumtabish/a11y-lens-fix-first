@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-11-12T21:45:07.646Z",
+  "nodeVersion": "v25.2.1",
+  "playwrightVersion": "1.56.1",
+  "chromiumVersion": "141.0.7390.37",
+  "axeCoreVersion": "4.10.3",
+  "pagesScanned": 6,
+  "pagesWithCriticalOrSeriousFindings": 6,
+  "criticalRuleHits": 16,
+  "seriousRuleHits": 12,
+  "allViolationRuleHits": 28,
+  "uniqueAllViolationRules": 7,
+  "totalCriticalOrSeriousRuleHits": 28,
+  "uniqueFailingRules": 7,
+  "ticketCandidateCompression": 4,
+  "note": "Counts are rule hits per page, not individual affected DOM nodes. Compare with the published preprint; do not assume exact reproduction until validated."
+}
